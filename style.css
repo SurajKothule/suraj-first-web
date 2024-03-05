@@ -1,0 +1,15 @@
+p {
+    color:blueviolet;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    padding: 50px; /* Added semicolon */
+    margin: 50px; /* Corrected typo */
+}
+
+.container {
+    color: yellow;
+}
